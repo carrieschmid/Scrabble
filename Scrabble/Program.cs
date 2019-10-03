@@ -1,8 +1,9 @@
 using System;
+using Scrabble.Models;
 
 class Program
 {
-    public void Main()
+    public static void Main()
     {
         
     }
