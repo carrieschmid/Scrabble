@@ -1,8 +1,8 @@
-#### _Scrabble._
+# _Scrabble_
 
-#### By _**Carrie Schmid**_
+### By _**Carrie Schmid**_
 
-## Description
+### Description
 
 _A project to practice coding in C#._
 
