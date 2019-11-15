@@ -1,3 +1,11 @@
+#### _Scrabble._
+
+#### By _**Carrie Schmid**_
+
+## Description
+
+_A project to practice coding in C#._
+
 |Behavior|Input|Output|
 |----|------|-----|
 |Ignores non-alphabetic inputs| 7, <| Please enter a letter|
@@ -10,3 +18,21 @@
 |Takes a letter and returns respective score for that letter : J, X |j, J | 8|
 |Takes a letter and returns respective score for that letter : Q, Z|q, Q | 10|
 |Takes a word and returns sum of letter score for that word| scary, SCARY| 10 |
+
+
+
+## Support and contact details
+
+
+_Carrie Schmid: carriepederson7@gmail.com_
+
+## Technologies Used
+
+_C#_
+
+### License
+
+*MIT Liscence*
+
+Copyright (c) 2019 **_Carrie Schmid_**
+
